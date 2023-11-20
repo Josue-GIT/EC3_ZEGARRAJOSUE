@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppEC3_ZEGARRAJOSUE</string>
+    <string name="email">email\n</string>
+    <string name="contrasenia">contraseña</string>
+    <string name="aceptar">aceptar</string>
+    <string name="listado">listado</string>
+    <string name="OK">OK:\n</string>
+    <string name="Pasajeros">Pasajeros</string>
+    <string name="p">Pasajeros:</string>
+    <string name="a12342q">Encuentra tu camino amigo más cercano</string>
+    <string name="d">Ingrese su distrito</string>
+    <string name="Fi">Fecha de Inicio</string>
+    <string name="FFF">Fecha fin</string>
+    <string name="Buscar">Buscar</string>
+</resources>
